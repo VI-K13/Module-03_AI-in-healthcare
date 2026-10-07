@@ -174,7 +174,7 @@ The application will display the result below the symptom input.
 
 The repository includes:
 
-- `AI_Symptom_Care_Guide_Viktoriya.ipynb`
+- `2372_Module_3_AI_Symptom_Care_Guide_Viktoriya.ipynb`
 - `app.py`
 - `README.md`
 
@@ -235,11 +235,17 @@ This application was created for educational and demonstration purposes only.
 
 ## Research Sources
 
-- Centers for Disease Control and Prevention (CDC) – used to review common respiratory and flu-like symptoms. (https://www.cdc.gov/index.html)
-  
-- MedlinePlus – used to review general symptom information and when medical attention may be needed. (https://medlineplus.gov/)
+- Centers for Disease Control and Prevention (CDC) – used to review common respiratory and flu-like symptoms.
 
-- Streamlit Documentation – used as a reference for creating the application interface.c (https://docs.streamlit.io/)
+  (https://www.cdc.gov/index.html)
+  
+- MedlinePlus – used to review general symptom information and when medical attention may be needed.
+
+  (https://medlineplus.gov/)
+
+- Streamlit Documentation – used as a reference for creating the application interface.c
+
+  (https://docs.streamlit.io/)
 
 It does not provide a medical diagnosis and should not replace advice from a qualified healthcare professional.
 
