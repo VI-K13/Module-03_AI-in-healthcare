@@ -233,6 +233,14 @@ I reviewed the code, tested the application, worked through errors, and made dec
 
 This application was created for educational and demonstration purposes only.
 
+## Research Sources
+
+- Centers for Disease Control and Prevention (CDC) – used to review common respiratory and flu-like symptoms. (https://www.cdc.gov/index.html)
+  
+- MedlinePlus – used to review general symptom information and when medical attention may be needed. (https://medlineplus.gov/)
+
+- Streamlit Documentation – used as a reference for creating the application interface.c (https://docs.streamlit.io/)
+
 It does not provide a medical diagnosis and should not replace advice from a qualified healthcare professional.
 
 If you believe you are experiencing a medical emergency, contact emergency services.
