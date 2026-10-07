@@ -248,3 +248,5 @@ I reviewed the code, tested the application, worked through errors, and made dec
 This application was created for educational and demonstration purposes only.
 
 It does not provide a medical diagnosis and should not replace advice from a qualified healthcare professional.
+
+If you believe you are experiencing a medical emergency, contact emergency services.
