@@ -229,10 +229,6 @@ I used ChatGPT mainly for brainstorming ideas, coding guidance, troubleshooting 
 
 I reviewed the code, tested the application, worked through errors, and made decisions about the project structure, symptom categories, care levels, and final design.
 
-## Disclaimer
-
-This application was created for educational and demonstration purposes only.
-
 ## Research Sources
 
 - Centers for Disease Control and Prevention (CDC) – used to review common respiratory and flu-like symptoms.
@@ -243,10 +239,12 @@ This application was created for educational and demonstration purposes only.
 
   (https://medlineplus.gov/)
 
-- Streamlit Documentation – used as a reference for creating the application interface.c
+- Streamlit Documentation – used as a reference for creating the application interface.
 
   (https://docs.streamlit.io/)
 
-It does not provide a medical diagnosis and should not replace advice from a qualified healthcare professional.
+## Disclaimer
 
-If you believe you are experiencing a medical emergency, contact emergency services.
+This application was created for educational and demonstration purposes only.
+
+It does not provide a medical diagnosis and should not replace advice from a qualified healthcare professional.
